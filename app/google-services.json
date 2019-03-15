@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "413742189979",
+    "firebase_url": "https://mbaas-a28af.firebaseio.com",
+    "project_id": "mbaas-a28af",
+    "storage_bucket": "mbaas-a28af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413742189979:android:d181f757de358199",
+        "android_client_info": {
+          "package_name": "br.com.rafaeldias.androidbaas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413742189979-nks3g08nr37btg9ks2mggckcht9mg4ql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.rafaeldias.androidbaas",
+            "certificate_hash": "beb224284730e1ec2ea6857c4e52af0c0438cd6c"
+          }
+        },
+        {
+          "client_id": "413742189979-de3ldqk819ig2bunb2b6ne8deuf0u1bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsgWNQLrIPYNKIAWFgF4yilyaSgnnQais"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413742189979-de3ldqk819ig2bunb2b6ne8deuf0u1bt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
